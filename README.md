@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbanj&label=Profile%20views&color=0e75b6&style=flat" alt="tbanj" /> </p>
 
-- 🔭 I’m currently working on **woozeee click&shop admin**
+- 🔭 I’m currently working on [woozeee click&shop admin](https://gitlab.com/aidigbe/clicknshop_admin)
 
 - 🌱 I’m currently learning **aws eks, webGL, vue.js and Cloud Devops Engineer Nanodegree programme**
 
