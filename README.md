@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **t.banji@rocketmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/coBDM](https://shorturl.at/coBDM)
+- 📄 Know about my experiences [https://temitope-port.netlify.app)
 
 - ⚡ Fun fact **contributing my quota to something big**
 
