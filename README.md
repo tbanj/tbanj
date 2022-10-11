@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **t.banji@rocketmail.com**
 
-- 📄 Know about my experiences [https://temitope-port.netlify.app)
+- 📄 Know about my experiences [https://temitope-port.netlify.app](https://temitope-port.netlify.app)
 
 - ⚡ Fun fact **contributing my quota to something big**
 
