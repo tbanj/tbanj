@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alabi Temitope</h1>
-<h3 align="center">I'm a Software Engineer, and a mentor who currently works as a Frontend Developer at woozeee. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce and communities. I'm highly skilled in front-end development with solid knowledge in Javascript foundation, vanilla Javascript and ReactJs. He develops easy-to-use websites and applications with very good user experience with React, Javascript, Jquery, Typescript, HTML and CSS. Also, have some Node.js experience. In addition, Temitope has worked as a MERN stack developer and has good knowledge of REST APIs and User Interface(UI) design. He has built different types of applications such as ERP, HR, B2B,/B2C, eCommerce, investment & banking and enterprise applications.</h3>
+<h3 align="center">I'm a Software Engineer, and a mentor who currently works as a Senior Frontend Engineer at First City Monument Bank. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce and communities. I'm highly skilled in front-end development with solid knowledge in Javascript foundation, vanilla Javascript and ReactJs. He develops easy-to-use websites and applications with very good user experience with React, Javascript, Jquery, Typescript, HTML and CSS. Also, have some Node.js experience. In addition, Temitope has worked as a MERN stack developer and has good knowledge of REST APIs and User Interface(UI) design. He has built different types of applications such as ERP, HR, B2B,/B2C, eCommerce, investment & banking and enterprise applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbanj&label=Profile%20views&color=0e75b6&style=flat" alt="tbanj" /> </p>
 
-- 🔭 I’m currently working on [woozeee click&shop admin](https://gitlab.com/aidigbe/clicknshop_admin)
+- 🔭 I’m currently working and maintaining [SME Online Account Opening ](https://onlineaccount.fcmb.com/business)
+
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 🌱 I’m currently learning **aws eks, webGL, vue.js and Cloud Devops Engineer Nanodegree programme**
 
